@@ -1,0 +1,21 @@
+{
+	"radiation_token_range": [
+		{
+			"tokens_min": 0,
+			"tokens_max": 5000,
+			"probability_min": 80,
+			"probability_max": 90
+		},
+		{
+			"tokens_min": 5000,
+			"tokens_max": 20000,
+			"probability_min": 1,
+			"probability_max": 5
+		},
+		{
+			"tokens_min": 20000,
+			"tokens_max": 50000,
+			"probability": 1
+		}
+	]
+}

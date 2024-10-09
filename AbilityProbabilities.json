@@ -1,0 +1,22 @@
+{
+	"ability_type": [
+		{
+			"ability": "rare",
+			"rarity": "rare",
+			"probability_min": 40,
+			"probability_max": 50
+		},
+		{
+			"ability": "elite",
+			"rarity": "elite",
+			"probability_min": 10,
+			"probability_max": 15
+		},
+		{
+			"ability": "legendary",
+			"rarity": "legendary",
+			"probability_min": 1,
+			"probability_max": 3
+		}
+	]
+}

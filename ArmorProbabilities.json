@@ -1,0 +1,34 @@
+{
+	"armor_type": [
+		{
+			"armor": "helmet",
+			"rarity": "rare",
+			"probability_min": 40,
+			"probability_max": 50
+		},
+		{
+			"armor": "chest armor",
+			"rarity": "rare",
+			"probability_min": 40,
+			"probability_max": 50
+		},
+		{
+			"armor": "leg armor",
+			"rarity": "rare",
+			"probability_min": 40,
+			"probability_max": 50
+		},
+		{
+			"armor": "elite armor",
+			"rarity": "elite",
+			"probability_min": 10,
+			"probability_max": 15
+		},
+		{
+			"armor": "legendary armor",
+			"rarity": "legendary",
+			"probability_min": 1,
+			"probability_max": 3
+		}
+	]
+}

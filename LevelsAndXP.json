@@ -1,0 +1,311 @@
+{
+	"level_threshold": [
+		{
+			"level": 1,
+			"xp_levelup": 1000,
+			"total_xp": 1000,
+			"reward": "Bronze Asteroid"
+		},
+		{
+			"level": 2,
+			"xp_levelup": 1500,
+			"total_xp": 2500,
+			"reward": "100 Coins"
+		},
+		{
+			"level": 3,
+			"xp_levelup": 2000,
+			"total_xp": 4500,
+			"reward": "Rare Character"
+		},
+		{
+			"level": 4,
+			"xp_levelup": 2500,
+			"total_xp": 7000,
+			"reward": "200 Coins"
+		},
+		{
+			"level": 5,
+			"xp_levelup": 3000,
+			"total_xp": 10000,
+			"reward": "Silver Asteroid"
+		},
+		{
+			"level": 6,
+			"xp_levelup": 3500,
+			"total_xp": 13500,
+			"reward": "300 Coins"
+		},
+		{
+			"level": 7,
+			"xp_levelup": 4000,
+			"total_xp": 17500,
+			"reward": "Legendary Character"
+		},
+		{
+			"level": 8,
+			"xp_levelup": 4500,
+			"total_xp": 22000,
+			"reward": "400 Coins"
+		},
+		{
+			"level": 9,
+			"xp_levelup": 5000,
+			"total_xp": 27000,
+			"reward": "Silver Asteroid"
+		},
+		{
+			"level": 10,
+			"xp_levelup": 5500,
+			"total_xp": 32500,
+			"reward": "500 Coins"
+		},
+		{
+			"level": 11,
+			"xp_levelup": 6000,
+			"total_xp": 38500,
+			"reward": "Unique Skin"
+		},
+		{
+			"level": 12,
+			"xp_levelup": 6500,
+			"total_xp": 45000,
+			"reward": "600 Coins"
+		},
+		{
+			"level": 13,
+			"xp_levelup": 7000,
+			"total_xp": 52000,
+			"reward": "Epic Character"
+		},
+		{
+			"level": 14,
+			"xp_levelup": 7500,
+			"total_xp": 59500,
+			"reward": "700 Coins"
+		},
+		{
+			"level": 15,
+			"xp_levelup": 8000,
+			"total_xp": 67500,
+			"reward": "Gold Asteroid"
+		},
+		{
+			"level": 16,
+			"xp_levelup": 8500,
+			"total_xp": 76000,
+			"reward": "800 Coins"
+		},
+		{
+			"level": 17,
+			"xp_levelup": 9000,
+			"total_xp": 85000,
+			"reward": "Legendary Character"
+		},
+		{
+			"level": 18,
+			"xp_levelup": 9500,
+			"total_xp": 94500,
+			"reward": "900 Coins"
+		},
+		{
+			"level": 19,
+			"xp_levelup": 10000,
+			"total_xp": 104500,
+			"reward": "Mythic Character"
+		},
+		{
+			"level": 20,
+			"xp_levelup": 10500,
+			"total_xp": 115000,
+			"reward": "1000 Coins"
+		},
+		{
+			"level": 21,
+			"xp_levelup": 11000,
+			"total_xp": 12600,
+			"reward": "Mythic Ability Card"
+		},
+		{
+			"level": 22,
+			"xp_levelup": 11500,
+			"total_xp": 137500,
+			"reward": "1100 Coins"
+		},
+		{
+			"level": 23,
+			"xp_levelup": 12000,
+			"total_xp": 149500,
+			"reward": "Bronze Asteroid"
+		},
+		{
+			"level": 24,
+			"xp_levelup": 12500,
+			"total_xp": 162000,
+			"reward": "1200 Coins"
+		},
+		{
+			"level": 25,
+			"xp_levelup": 13000,
+			"total_xp": 175000,
+			"reward": "Mythic Skin"
+		},
+		{
+			"level": 26,
+			"xp_levelup": 13500,
+			"total_xp": 188500,
+			"reward": "1300 Coins"
+		},
+		{
+			"level": 27,
+			"xp_levelup": 14000,
+			"total_xp": 202500,
+			"reward": "Silver Asteroid"
+		},
+		{
+			"level": 28,
+			"xp_levelup": 14500,
+			"total_xp": 217000,
+			"reward": "1400 Coins"
+		},
+		{
+			"level": 29,
+			"xp_levelup": 15000,
+			"total_xp": 232000,
+			"reward": "Exclusive Character or Item"
+		},
+		{
+			"level": 30,
+			"xp_levelup": 15500,
+			"total_xp": 247500,
+			"reward": "1500 Coins"
+		},
+		{
+			"level": 31,
+			"xp_levelup": 16000,
+			"total_xp": 263500,
+			"reward": "Legendary Skin"
+		},
+		{
+			"level": 32,
+			"xp_levelup": 16500,
+			"total_xp": 280000,
+			"reward": "1600 Coins"
+		},
+		{
+			"level": 33,
+			"xp_levelup": 17000,
+			"total_xp": 297000,
+			"reward": "Exclusive Title"
+		},
+		{
+			"level": 34,
+			"xp_levelup": 17500,
+			"total_xp": 314500,
+			"reward": "1700 Coins"
+		},
+		{
+			"level": 35,
+			"xp_levelup": 18000,
+			"total_xp": 332500,
+			"reward": "Ultimate Character"
+		},
+		{
+			"level": 36,
+			"xp_levelup": 18500,
+			"total_xp": 351000,
+			"reward": "1800 Coins"
+		},
+		{
+			"level": 37,
+			"xp_levelup": 19000,
+			"total_xp": 370000,
+			"reward": "Gold Asteroid"
+		},
+		{
+			"level": 38,
+			"xp_levelup": 19500,
+			"total_xp": 389500,
+			"reward": "1900 Coins"
+		},
+		{
+			"level": 39,
+			"xp_levelup": 20000,
+			"total_xp": 409500,
+			"reward": "Ultimate Card Pack"
+		},
+		{
+			"level": 40,
+			"xp_levelup": 20500,
+			"total_xp": 430000,
+			"reward": "2000 Coins"
+		},
+		{
+			"level": 41,
+			"xp_levelup": 21000,
+			"total_xp": 451000,
+			"reward": "Ultimate Skin"
+		},
+		{
+			"level": 42,
+			"xp_levelup": 21500,
+			"total_xp": 472500,
+			"reward": "2100 Coins"
+		},
+		{
+			"level": 43,
+			"xp_levelup": 22000,
+			"total_xp": 494500,
+			"reward": "Exclusive Ultimate Character"
+		},
+		{
+			"level": 44,
+			"xp_levelup": 22500,
+			"total_xp": 517000,
+			"reward": "2200 Coins"
+		},
+		{
+			"level": 45,
+			"xp_levelup": 23000,
+			"total_xp": 540000,
+			"reward": "Ultimate Mythic Title"
+		},
+		{
+			"level": 46,
+			"xp_levelup": 23500,
+			"total_xp": 563500,
+			"reward": "2300 Coins"
+		},
+		{
+			"level": 47,
+			"xp_levelup": 24000,
+			"total_xp": 587500,
+			"reward": "Ultimate Mythic Card Pack"
+		},
+		{
+			"level": 48,
+			"xp_levelup": 24500,
+			"total_xp": 612000,
+			"reward": "2400 Coins"
+		},
+		{
+			"level": 49,
+			"xp_levelup": 25000,
+			"total_xp": 637000,
+			"reward": "Exclusive Ultimate Mythic Skin"
+		},
+		{
+			"level": 50,
+			"xp_levelup": 25500,
+			"total_xp": 662500,
+			"reward": "Ultimate Character And 5000 Coins"
+		}
+	],
+
+	"xp_gain": [
+		{
+			"win": 400,
+			"lose": 200
+		}
+	]
+}

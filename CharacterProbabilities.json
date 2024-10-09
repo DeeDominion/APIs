@@ -1,0 +1,142 @@
+{
+	"character_probabilities": [
+		{
+			"character": "Babs",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Shango",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Massimo",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Sargon",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Gahn",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Persephone",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Neiko",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Mamu",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Sebas",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Aurelia (with Mairloo Twins)",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Freya",
+			"level": 3,
+			"rarity": "legendary",
+			"probability": 1
+		},
+		{
+			"character": "Babs",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 3.5
+		},
+		{
+			"character": "Shango",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 3
+		},
+		{
+			"character": "Massimo",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 5
+		},
+		{
+			"character": "Sargon",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 4.5
+		},
+		{
+			"character": "Gahn",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 4
+		},
+		{
+			"character": "Persephone",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 6.5
+		},
+		{
+			"character": "Neiko",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 6
+		},
+		{
+			"character": "Aurelia",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 7
+		},
+		{
+			"character": "Sebas",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 7
+		},
+		{
+			"character": "Mamu",
+			"level": 2,
+			"rarity": "rare",
+			"probability": 5.5
+		},
+		{
+			"character": "Shango",
+			"level": 1,
+			"rarity": "base",
+			"probability": 80
+		},
+		{
+			"character": "Sargon",
+			"level": 1,
+			"rarity": "base",
+			"probability": 81
+		}
+	]
+}
